@@ -63,5 +63,5 @@ During development, the biggest challenges include:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/car-dealership-mern.git](https://github.com/Furkanvrdl/Car-Dealership-Lot-Management-App
+   git clone https://github.com/Furkanvrdl/Car-Dealership-Lot-Management-App
    ```
