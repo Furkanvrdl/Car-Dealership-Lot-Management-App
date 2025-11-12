@@ -1,4 +1,4 @@
-# 🚗 Car Dealership Lot Manager (MERN Stack)
+# 🚗 Car Dealership Lot Management (MERN Stack)
 
 ## 📝 Project Description
 
